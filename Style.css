@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Arial, sans-serif;
-    background: url("bg.jpg") no-repeat center center fixed;
+    background: url("e-commerce.jpg.jpg") no-repeat center center fixed;
     background-size: cover;
     background-color: #87ceeb; /* SkyBlue */
     padding: 20px 0;
@@ -100,3 +100,4 @@ img {
         color: #32cd32;
     }
 }
+
